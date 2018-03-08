@@ -7,9 +7,9 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, './dist'),
-    filename: 'test-man.js',
+    filename: 'npm-test.js',
     publicPath: '/',
-    library: 'TestMan',
+    library: 'NpmTest',
     libraryTarget: 'umd',
     globalObject: 'this',
   },

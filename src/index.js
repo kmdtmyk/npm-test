@@ -1,4 +1,4 @@
-module.exports = require('./test-man').default
+module.exports = require('./npm-test').default
 
 
 // module.exports = {
